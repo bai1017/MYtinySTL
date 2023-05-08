@@ -1,0 +1,11 @@
+﻿  test.cpp
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_performance_test.h(64,3): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_performance_test.h(65,3): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_performance_test.h(66,3): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_test.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_test.h(901,14): warning C4858: 正在放弃返回值: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_test.h(904,14): warning C4858: 正在放弃返回值: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_test.h(938,17): warning C4858: 正在放弃返回值: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_test.h(1136,14): warning C4858: 正在放弃返回值: The 'unique' algorithm returns the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards.
+C:\Users\TZ\Source\Repos\MyTinySTL\Test\algorithm_test.h(1138,14): warning C4858: 正在放弃返回值: The 'unique' algorithm returns the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards.
+  MyTinySTL_VS2015.vcxproj -> C:\Users\TZ\Source\Repos\MyTinySTL\MSVC\x64\Debug\MyTinySTL.exe
